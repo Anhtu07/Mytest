@@ -3,3 +3,5 @@ class La(object):
 		self.la = 'la'
 	def la(self):
 		print("la")
+	def lala(self):
+		print("lala")
